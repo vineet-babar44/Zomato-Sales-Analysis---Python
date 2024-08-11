@@ -40,7 +40,7 @@ Data set Link : https://drive.google.com/drive/folders/1MD9m8JhOYF2Oipp9HkPYkk5o
 
 ### 3. Data Cleaning :
 
-The most important step & my presonal favourite is Data quality check.
+The most important step & my personal favourite is Data quality check.
 
 Errors/mistakes in the data : Item Fat Content Column having 2 values 'Low Fat' & 'High Fat', but somefields entries were 'LF' or 'HF'. 
 For this purpose I used **Power Query Editor** to replace the values, where we can Edit/transfrom the data &then load.
