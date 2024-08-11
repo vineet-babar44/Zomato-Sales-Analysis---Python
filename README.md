@@ -17,7 +17,7 @@ To conduct a comprehensive analysis of Blinkits sales performance, customer sati
 
 ### 1. Requirement Gathering :
 
-KPI's are good at high level of analysis but if we really want to get insights at a deeper level we need to have chart requirements.
+KPI's are good at high level of analysis but if we really want to get insights at a deeper level we need to have different requirements.
 
 -   a. Total Sales by Fat Content : Analyze the impact of FAT content on total Sales.
 -   b. Total Sales by Item type : Identify performance of different items on total sales.
